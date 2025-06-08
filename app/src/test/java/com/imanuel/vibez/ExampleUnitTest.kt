@@ -1,4 +1,4 @@
-package com.example.vibez
+package com.imanuel.vibez
 
 import org.junit.Test
 
